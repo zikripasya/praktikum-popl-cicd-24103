@@ -52,6 +52,6 @@ docker:
       with:
         context: .
         push: true
-        tags: ahmadzikripasya/praktikum-popl-nodejs:latest
+        tags: ahmadzikripasya/praktikum-popl-cicd-24103:latest
         
     
